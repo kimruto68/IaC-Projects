@@ -1,12 +1,5 @@
 # Local .terraform directories
 .terraform/
-<<<<<<< HEAD
-*.tfstate
-*.tfstate.backup
-*.tfvars
-crash.log
-*.tfplan
-=======
 
 # Terraform state files
 *.tfstate
@@ -37,4 +30,3 @@ secrets.tfvars
 *.tfvars.json
 credentials.csv
 aws-credentials
->>>>>>> 26195e550507ec25732f71983c17b5438430f276
